@@ -6,8 +6,4 @@ public class AppClass2 {
         System.out.println("doing soemthing");
     }
 
-
-    public void doSomethingElse(){
-        System.out.println("doing soemthing");
-    }
 }
